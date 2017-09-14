@@ -1,3 +1,3 @@
 # GISDAY2016
 Widget for Web App Builder for Developer
-This Widget was developed on the GIS Day 
+This page refers to any ESRI-based application development activity within the Polytechnic University
